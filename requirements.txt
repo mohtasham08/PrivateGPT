@@ -1,0 +1,12 @@
+pypdf
+langchain
+torch
+accelerate
+transformers
+sentence_transformers
+faiss_cpu
+Streamlit==1.25.0
+CTransformers
+Streamlit_chat
+pdfminer.six
+python-dotenv
